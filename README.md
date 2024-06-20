@@ -4,3 +4,5 @@ hello
 author: Bikesh Sah
 <br>
 address: Rautahat
+<br>
+education: Bachelor in Computer Engineering
